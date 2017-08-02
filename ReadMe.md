@@ -2,6 +2,7 @@
 We wanted to work with Augmented Reality and was inspired by the game Slenderman and how cool it would be to play in your own house or backyard. Incorporating Augmented Reality with horror games would improve virtual horror.
 Since the election was last Tuesday we decided that instead of Slenderman, we could have an equally terrifying monster following the player around, Mr. President Elect Donald Trump.
 We decided to make our own rules and make our own horror.
+ https://devpost.com/software/can-t-stump-rfpdgz
 
 ## What it does
 You use Tango's software and you can explore wherever you are and try to collect film so you can take pictures of Donald Trump. Once you take 3 pictures of Trump, the game ends in a win. If Trump touches you, you lose the game, and he will always follor you around. Whenever you see him, he says a random quote. 
